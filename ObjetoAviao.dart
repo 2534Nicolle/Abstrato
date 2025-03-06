@@ -21,7 +21,7 @@ void main() {
   print("Modelo: " + aviao1.modelo);
   print("Tamanho: " + aviao1.tamanho);
 
-  print("=====================");
+  print("------------------------");
   aviao1.ligar();
   aviao1.decolar();
   aviao1.acelerar();
@@ -47,7 +47,7 @@ void main() {
   print("Modelo: " + aviao2.modelo);
   print("Tamanho: " + aviao2.tamanho);
 
-  print("=====================");
+  print("------------------------");
   aviao2.ligar();
   aviao2.decolar();
   aviao2.acelerar();
@@ -73,7 +73,7 @@ void main() {
   print("Modelo: " + aviao3.modelo);
   print("Tamanho: " + aviao3.tamanho);
 
-  print("=====================");
+  print("------------------------");
   aviao3.ligar();
   aviao3.decolar();
   aviao3.acelerar();
